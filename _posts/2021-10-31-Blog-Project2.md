@@ -11,7 +11,7 @@ In projec 2, we read in and analyzed an online news popularity data set. We anal
 Next step, we adapted code to other five data channel whch were tech, lifestyle, world, socem and entertainment. But we were unable to get the automation to work with the filter statement, so only entertainment html file was created.  
 
 • what would you do differently?  
-Actually, I don't have much clue to do a project.   
+Actually, I would like to have six Rmd.file seperately because automation part is really tough. 
 
 • what was the most difficult part for you?  
 The project sense and code sense are difficult to me. How to extract useful information from articles and transfer it to statistical problems is especially difficult to me. Furthermore, complex code is also difficult to me. Sometimes, it's hard to read through and understand the complex code.   
